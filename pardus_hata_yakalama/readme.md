@@ -1,0 +1,18 @@
+# 🐧 TEKNOFEST Pardus Hata Yakalama Yarışması
+
+> Bu kategori için rehber hazırlanmaktadır.
+
+## 📝 Hakkında
+
+TEKNOFEST Pardus Hata Yakalama Yarışması hakkında detaylı bilgiler yakında eklenecektir.
+
+## 🔗 Faydalı Bağlantılar
+
+- [TEKNOFEST Resmi Web Sitesi](https://www.teknofest.org/)
+- [Pardus Linux](https://www.pardus.org.tr/)
+- [Yarışmalar Listesi](https://www.teknofest.org/yarismalar)
+
+---
+
+**Not:** Bu rehber henüz hazırlanmaktadır. Katkıda bulunmak isterseniz, ana repository'ye pull request gönderebilirsiniz.
+
